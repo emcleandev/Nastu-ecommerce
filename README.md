@@ -2,7 +2,7 @@
 A fullstack store - a complete demo - utlising full store features such as payment and invocie, and order-authentication.
 Encouragement came from the desire to practice and succusfully use a cms-apis within a web application, as well as payments system.
 
-Stack technologies: 
+Stack technologies: Nextjs/Reactjs, Strapi, Postgres/GraphQl, and service-apis( Stripe, Cloudinary, Auth0)
 
 # Features
 - User authentication (google sign in etc.)
